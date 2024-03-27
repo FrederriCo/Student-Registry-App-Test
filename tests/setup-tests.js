@@ -1,4 +1,4 @@
-let server;
+let server
 
 setup(function() {
   let students = [
